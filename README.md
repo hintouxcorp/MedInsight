@@ -5,3 +5,6 @@ The application was developed to showcase my skills in Convolutional Neural Netw
 
 # How to Use
 Open the application and click the first button; this will load the image. Once the image is loaded, a panel with two buttons will appear. Simply click the "Identify" button to identify the loaded image. After the identification process, the result will appear above the image.
+
+# Note
+This application, even though it is intended for presentation purposes only, may still receive updates in the future.
