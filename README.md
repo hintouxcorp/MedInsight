@@ -8,3 +8,6 @@ Open the application and click the first button; this will load the image. Once 
 
 # Note
 This application, even though it is intended for presentation purposes only, may still receive updates in the future.
+
+# Important
+This application detects four types of tumors: glioma, meningioma, no tumor, and pituitary.
